@@ -1,0 +1,7 @@
+setup.py
+te_li_pio/__init__.py
+te_li_pio/myfunctions.py
+te_li_pio.egg-info/PKG-INFO
+te_li_pio.egg-info/SOURCES.txt
+te_li_pio.egg-info/dependency_links.txt
+te_li_pio.egg-info/top_level.txt
